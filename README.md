@@ -49,5 +49,6 @@ This project demonstrates how to use a **555 timer IC** in astable mode to gener
 ## References
 - **youtube video link** : https://youtu.be/QH-R0NyjlY4?si=imVwCNgoQ4xN1hFb.
 - **website** : https://elonics.org/pwm-dc-motor-speed-and-led-dimmer-circuit-using-555-ic/
+- **canvalink** : https://www.canva.com/design/DAGjpDdfTE0/8MwBPGtSqkQqUyJnnQxA-Q/edit.
 
 ---
