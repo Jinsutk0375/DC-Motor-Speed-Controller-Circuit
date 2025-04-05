@@ -4,6 +4,12 @@ PWM (Pulse Width Modulated) controller circuit for controlling the speed of DC M
 ## Circuit Diagram
 ![Circuit Diagram](https://github.com/user-attachments/assets/821815f2-4c95-43e0-baa3-987364d4d640)
 
+## Project Diagram
+![IMG_20250401_231542](https://github.com/user-attachments/assets/535229fe-14f7-470e-8f74-ee4884d40a89)
+
+## Project Video
+[Watch the video](https://github.com/user-attachments/assets/8e503e50-6d11-4a88-8994-733d39858c55)
+
 ## Overview
 This project demonstrates how to use a **555 timer IC** in astable mode to generate a **PWM signal** for controlling the speed of **DC motors** and brightness of **LEDs**. By adjusting the duty cycle, the speed of the motor can be varied efficiently.
 
@@ -47,8 +53,6 @@ This project demonstrates how to use a **555 timer IC** in astable mode to gener
 - **Feedback System** – Add a **tachometer** to **maintain constant speed**.
 
 ## References
-- **youtube video link** : https://youtu.be/QH-R0NyjlY4?si=imVwCNgoQ4xN1hFb.
-- **website** : https://elonics.org/pwm-dc-motor-speed-and-led-dimmer-circuit-using-555-ic/
-- **canvalink** : https://www.canva.com/design/DAGjpDdfTE0/8MwBPGtSqkQqUyJnnQxA-Q/edit.
-
----
+- **youtube video link** : https://youtu.be/QH-R0NyjlY4?si=imVwCNgoQ4xN1hFb  
+- **website** : https://elonics.org/pwm-dc-motor-speed-and-led-dimmer-circuit-using-555-ic/  
+- **canvalink** : https://www.canva.com/design/DAGjpDdfTE0/8MwBPGtSqkQqUyJnnQxA-Q/edit
