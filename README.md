@@ -53,7 +53,8 @@ This project demonstrates how to use a **555 timer IC** in astable mode to gener
 - **Feedback System** – Add a **tachometer** to **maintain constant speed**.
 
 ## Budget  
-![IMG_20250326_185229](https://github.com/user-attachments/assets/a9bdd5bf-a040-4f44-8aff-8578ae3596f6)
+<img src="https://github.com/user-attachments/assets/a9bdd5bf-a040-4f44-8aff-8578ae3596f6" alt="Budget" width="400"/>
+
 
 
 ## References
