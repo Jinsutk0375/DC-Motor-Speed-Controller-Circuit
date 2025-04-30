@@ -52,6 +52,10 @@ This project demonstrates how to use a **555 timer IC** in astable mode to gener
 - **Higher Power Handling** – Use a **stronger MOSFET (e.g., IRF540N)** for **higher current loads**.
 - **Feedback System** – Add a **tachometer** to **maintain constant speed**.
 
+## Budget  
+![IMG_20250326_185229](https://github.com/user-attachments/assets/a9bdd5bf-a040-4f44-8aff-8578ae3596f6)
+
+
 ## References
 - **youtube video link** : https://youtu.be/QH-R0NyjlY4?si=imVwCNgoQ4xN1hFb  
 - **website** : https://elonics.org/pwm-dc-motor-speed-and-led-dimmer-circuit-using-555-ic/  
